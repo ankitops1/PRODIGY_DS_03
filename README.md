@@ -17,7 +17,7 @@ This project uses a Decision Tree Classifier to predict whether a customer will 
 
 ## 📂 Files
 
-- `Task_03.csv` – Cleaned bank dataset
+- `bank.csv` – Cleaned bank dataset
 - `Task03.ipynb` – Jupyter notebook with full model workflow
 - `Task03.html` – HTML export of the notebook
 - `README.md` – Project description and setup instructions
