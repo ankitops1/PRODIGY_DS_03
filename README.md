@@ -14,14 +14,7 @@ This project uses a Decision Tree Classifier to predict whether a customer will 
 - Confusion Matrix (text + heatmap)
 - Decision Tree visualization using `plot_tree()`
 - Predicted vs actual labels display
-- 
-## 🔍 Example Output
 
-Accuracy: 0.89
-Confusion Matrix:
-[[10940   256]
- [  783   302]]
- 
 ## 📂 Files
 
 - `Task_03.csv` – Cleaned bank dataset
